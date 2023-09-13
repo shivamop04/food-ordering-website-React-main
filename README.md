@@ -12,9 +12,7 @@
 - [Feedback](#feedback)
 - [Author](#author)
 
-## <a name="demo"></a> Demo
 
-![Game Demo](public/React_Food_Ordering.jpg)
 
 ## <a name="features"></a> Features
 
