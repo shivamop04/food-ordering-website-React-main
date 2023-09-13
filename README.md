@@ -53,5 +53,3 @@
 - Express
 - MongoDB
 
-## <a name="design_inspiration"></a> Design Inspiration:
-
